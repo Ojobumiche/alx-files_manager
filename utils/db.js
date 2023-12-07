@@ -1,4 +1,3 @@
-
 const { MongoClient } = require('mongodb');
 
 const host = process.env.DB_HOST || 'localhost';
